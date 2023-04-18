@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">DATANMobileApps</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="hello_world">Hello World</string>
+    <string name="exercise_1">exercise 1</string>
+    <string name="activity_1">activity 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="activity_3">Activity 3</string>
+    <string name="background">background</string>
+    <string name="menu">Menu</string>
+    <string name="student_registration_page">Student Registration Page</string>
+    <string name="complete_name">Complete Name</string>
+    <string name="submit">Submit</string>
+    <string name="firstname">Firstname</string>
+    <string name="lastname">Lastname</string>
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="birthdate">Birthdate</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="email_address">Email Address</string>
+    <string name="clear">Clear</string>
+    <string name="this_page_displays_the_input_from_the_registration_page">This page displays the input from the Registration Page</string>
+    <string name="full_name">Full Name</string>
+    <string name="phone_num">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="bdate">Birthdate</string>
+    <string name="genderr">Gender</string>
+    <string name="sms">sms</string>
+</resources>
